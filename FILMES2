@@ -1,0 +1,12 @@
+MODELO COM VARIOS LINKS
+
+<intem>
+<title> LANÇAMENTOS EXP </title>
+<link>plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YBdrvRlw1w_E2OQmXGe77kXZ8ExoGyy1/view$$1sname=[COLOR orange]HD[/COLOR] - ROBERTO CARLOS 1</link>
+<link>plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KHk4V1YI3yrNHSe98JwvapuNVJH733nl/view$$1sname=[COLOR orange]HD[/COLOR] - ROBERTO CARLOS 2</link>
+<link>plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bYhvmS9iVigv0Bz8xTm-G1mSPgy9CsfX/view$$1sname=[COLOR orange]HD[/COLOR] - ROBERTO CARLOS 2</link>
+<link>https://stream2.canais.info/d/RCServer13/ondemand/LCSDPLS01EP06.mp4/chunk.m3u8?expires=1587158454&token=0e77b9a35363ab362306e494ea7a31f7$$1sname=[COLOR orange]HD[/COLOR] - LA CASA DE PAPEL</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/MoEKaPFHABtA1xKoOteirGaHl1.jpg</fanart>
+<info>DOIS FILMES DE ROBERTO CARLOS & UM LA CASA DE PAPEL </info>
+</item>
