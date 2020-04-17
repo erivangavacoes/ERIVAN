@@ -1,27 +1,3 @@
-MODELO COM VARIOS LINKS
-
-<intem>
-<title> [COLOR lime] TESTE 1 [/COLOR] </title>
-<link>plugin.video.gdrive?mode=streamURL&amp;url=https://lh3.googleusercontent.com/vzDCqm2Km0BiDT21YrskR7PiaL5YVxdw-CGd9M1J371Y09nYS7iNGzIhwiHkHdDfGKHpQmae6q4DHTJlEUBPcor5EXRL--RW2qFcdskb9_t2Q9e2iYRKQXEVJfHlMQEJ2Ux4oYNT2w=m22$$1sname=[COLOR lime]HD 1080P[/COLOR] - ROBERTO CARLOS 1</link>
-<link>plugin.video.gdrive?mode=streamURL&amp;url=https://lh3.googleusercontent.com/vzDCqm2Km0BiDT21YrskR7PiaL5YVxdw-CGd9M1J371Y09nYS7iNGzIhwiHkHdDfGKHpQmae6q4DHTJlEUBPcor5EXRL--RW2qFcdskb9_t2Q9e2iYRKQXEVJfHlMQEJ2Ux4oYNT2w=m22$$1sname=[COLOR lime]HD 1080P[/COLOR] - ROBERTO CARLOS 2</link>
-<link>plugin.video.gdrive?mode=streamURL&amp;url=https://lh3.googleusercontent.com/vzDCqm2Km0BiDT21YrskR7PiaL5YVxdw-CGd9M1J371Y09nYS7iNGzIhwiHkHdDfGKHpQmae6q4DHTJlEUBPcor5EXRL--RW2qFcdskb9_t2Q9e2iYRKQXEVJfHlMQEJ2Ux4oYNT2w=m22$$1sname=[COLOR lime]HD 1080P[/COLOR] - ROBERTO CARLOS 3</link>
-<link>https://www.youtube.com/watch?v=6ti-NkmfxEs&feature=youtu.be$$1sname=[COLOR lime]HD[/COLOR] -TUTORIAL 1</link>
-<thumbnail>https://ia601408.us.archive.org/5/items/icon_20200416_202004/icon.png</thumbnail>
-<fanart>https://ia601409.us.archive.org/28/items/fanart_20200416/fanart.jpg</fanart>
-<info> ERIVAN GRAVACOES 2020 VERSAO 1.1.4</info>
-</item>
-
-MODELO GDRIVE DE APENAS UM LINK
-
-<intem>
-<title> </title>
-<link>https://lh3.googleusercontent.com/vzDCqm2Km0BiDT21YrskR7PiaL5YVxdw-CGd9M1J371Y09nYS7iNGzIhwiHkHdDfGKHpQmae6q4DHTJlEUBPcor5EXRL--RW2qFcdskb9_t2Q9e2iYRKQXEVJfHlMQEJ2Ux4oYNT2w=m22$$1sname=[COLOR lime]HD 1080P[/COLOR] - ROBERTO 2020</link>
-<thumbnail>https://ia601408.us.archive.org/5/items/icon_20200416_202004/icon.png</thumbnail>
-<fanart>https://ia601409.us.archive.org/28/items/fanart_20200416/fanart.jpg</fanart>
-<info> ROBERTO CARLOS 2020 </info>
-</item>
-
-MODELO UNIVERSAL DE APENAS UM LINK
 
 <intem>
 <title> TUTORIAL </title>
