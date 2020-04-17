@@ -1,0 +1,33 @@
+
+
+MODELO COM VARIOS LINKS
+
+<intem>
+<title> LANCAMENTOS </title>
+<link>plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YBdrvRlw1w_E2OQmXGe77kXZ8ExoGyy1/view$$1sname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<intem>
+<title> 2020 </title>
+<link> AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<intem>
+<title> ERIVAN </title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
