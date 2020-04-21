@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]- LANÇAMENTOS  - [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]- FILMES  - [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/5/items/icon_20200416_202004/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/erivangavacoes/ERIVAN/master/LANCAMENTOS1</externallink>
+<externallink>https://raw.githubusercontent.com/erivangavacoes/ERIVAN/master/FILMES</externallink>
 <fanart>https://ia601409.us.archive.org/28/items/fanart_20200416/fanart.jpg</fanart>
 <info>
 
@@ -11,10 +11,14 @@
 </channel>
 </channels>
 
-<intem>
-<title> Boneca Maldita </title>
-<link>https://cdn.netcine.info/html/content/conteudolb/filmes2018/BONECAMALDITALEG-BAIXO.mp4?token=FOLkJVMDFFM9mLoVg7E_NA&expires=1587498225</link>
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]- NACIONAIS  - [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/5/items/icon_20200416_202004/icon.png</thumbnail>
-<fanart>https://nsc1.global.ssl.fastly.net/wp-content/uploads/2018/11/Boneca-Maldita-Torrent-download-dublado-netflix.jpg</fanart>
-<info>boneco</info>
-</item>
+<externallink>https://raw.githubusercontent.com/erivangavacoes/ERIVAN/master/LANCAMENTOS1</externallink>
+<fanart>https://ia601409.us.archive.org/28/items/fanart_20200416/fanart.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - MELHORES FILMES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels
